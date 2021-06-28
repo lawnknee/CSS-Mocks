@@ -1,0 +1,15 @@
+div {
+    margin: 10px;
+}
+
+.signup {
+    padding: 10px;
+    background-color: skyblue;
+    color: white;
+    border-radius: 5px;
+    border: none;
+}
+
+.signup:hover {
+    background-color: darkblue ;
+}
